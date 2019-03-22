@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SafEve Cop</string>
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="firebase_path_distress" translatable="false">distress</string>
+    <string name="firebase_path_enforcers" translatable="false">enforcers</string>
+    <string name="firebase_email" translatable="false">2017304@iiitdmj.ac.in</string>
+    <string name="firebase_password" translatable="false">python_sucks</string>
+
+    <string name="fun_track">This App tracks you, you should track offenders. Too much fun!</string>
+</resources>
